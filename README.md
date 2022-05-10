@@ -56,7 +56,6 @@ F. Eckermann, C. Wietfeld, "SDR-based open-source C-V2X traffic generator for st
 		Title = {{SDR}-based open-source {C-V2X} traffic generator for stress testing vehicular communication},
 		Booktitle = {2021 IEEE 93rd Vehicular Technology Conference (VTC-Spring)},
 		Year = {2021},
-		Publishingstatus = {accepted for presentation},
 		Address = {Helsinki, Finland},
 		Month = {April}
 	}
